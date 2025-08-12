@@ -20,7 +20,7 @@ Yes: 63.04%
 
 No: 36.96%
 
-#### School Dropouts by Sub-County
+### School Dropouts by Sub-County
 The highest dropout rates due to teenage pregnancy were recorded in:
 
 Mt. Elgon – Over 2,000 dropouts
@@ -32,13 +32,13 @@ Kanduyi
 Tongaren
 
 
-The lowest dropouts were seen in:
+### The lowest dropouts were seen in:
 
 Webuye West
 
 Kimilili
 
-School Dropouts by Ward
+### School Dropouts by Ward
 Wards with notably high dropout rates include:
 
 Cheptais
@@ -52,7 +52,7 @@ Soysambu-Mitua
 Chwele/Kabuchai
 
 
-Wards with fewer dropouts include:
+### Wards with fewer dropouts include:
 
 Bokoli
 
@@ -61,7 +61,7 @@ Maraka
 Webuye West
 
 
-Top Villages by Number of Dropouts
+### Top Villages by Number of Dropouts
 The following villages had the highest number of school dropouts:
 
 Sango – 77 dropouts
@@ -73,6 +73,8 @@ Matisi – 58
 Nalondo – 53
 
 Namawanga – 47
+
+
 
 <img width="1157" height="652" alt="Screenshot 2025-08-12 114316" src="https://github.com/user-attachments/assets/911cc95e-0e51-463d-8c68-8a1ac907ce48" />
 
