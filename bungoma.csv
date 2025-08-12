@@ -1,0 +1,772 @@
+SubCounty,Ward,Village,TeenPregnancyRate,SchoolDropouts,HealthCenters,ContraceptiveAccess,EducationPrograms
+Mt Elgon,Cheptais,Kamosong,16.4,20,2,Yes,No
+Mt Elgon,Cheptais,Chebwek,21.5,18,1,No,No
+Mt Elgon,Cheptais,Chepkube,24.1,22,0,Yes,Yes
+Mt Elgon,Cheptais,Kipsis,17.8,19,2,No,No
+Mt Elgon,Cheptais,Kapsesoi,19.8,17,0,No,No
+Mt Elgon,Cheptais,Kimaswa,21.7,21,0,Yes,Yes
+Mt Elgon,Cheptais,Chesiro,21.8,23,2,No,No
+Mt Elgon,Cheptais,Walanga,18.5,20,0,Yes,No
+Mt Elgon,Cheptais,Burkenwo,25.9,24,0,No,No
+Mt Elgon,Cheptais,Kuborom,13.0,22,0,No,No
+Mt Elgon,Cheptais,Peresten,21.9,18,2,No,No
+Mt Elgon,Cheptais,Cherendyo,20.5,19,1,Yes,No
+Mt Elgon,Cheptais,Cheptiya,25.1,23,1,No,No
+Mt Elgon,Cheptais,Chemuses,24.5,20,1,Yes,Yes
+Mt Elgon,Cheptais,Nalondo,13.3,18,2,Yes,Yes
+Mt Elgon,Chesikaki,Toroso,21.8,15,2,Yes,Yes
+Mt Elgon,Chesikaki,Kaptoboi,18.4,16,2,No,No
+Mt Elgon,Chesikaki,Kamarang,19.6,14,1,No,No
+Mt Elgon,Chesikaki,Mulatiwa,22.1,17,0,Yes,No
+Mt Elgon,Chesikaki,Chemondi Sa,15.7,15,0,Yes,Yes
+Mt Elgon,Chesikaki,Chesiywo,19.9,18,1,No,No
+Mt Elgon,Chesikaki,Kapkota,24.5,16,2,Yes,Yes
+Mt Elgon,Chesikaki,Kimabole,17.6,17,1,No,No
+Mt Elgon,Chesikaki,Bukonoi,25.5,16,1,No,No
+Mt Elgon,Chesikaki,Kimama,20.7,15,2,Yes,No
+Mt Elgon,Chesikaki,Marigo,23.6,18,1,No,No
+Mt Elgon,Chesikaki,Cheptoror,21.4,16,1,Yes,Yes
+Mt Elgon,Chesikaki,Mulukhu,17.7,17,2,No,No
+Mt Elgon,Chesikaki,Chebinyinyi,18.7,15,0,Yes,No
+Mt Elgon,Chesikaki,Psongoywo,13.5,16,0,No,No
+Mt Elgon,Chepyuk,Kubura,24.7,20,0,No,No
+Mt Elgon,Chepyuk,Kabukwo,23.8,19,0,Yes,No
+Mt Elgon,Chepyuk,Chepyuk,22.9,21,2,Yes,Yes
+Mt Elgon,Chepyuk,Kipsikrok,20.8,18,1,No,No
+Mt Elgon,Chepyuk,Chepkurkur,19.5,22,0,No,No
+Mt Elgon,Chepyuk,Banan Tegaa,21.5,20,0,No,No
+Mt Elgon,Chepyuk,Kebee,21.4,21,1,Yes,No
+Mt Elgon,Chepyuk,Korng'Otuny,22.4,19,1,No,No
+Mt Elgon,Chepyuk,Kopsiro,12.9,22,1,Yes,Yes
+Mt Elgon,Chepyuk,Kaimugul,13.4,18,1,No,No
+Mt Elgon,Chepyuk,Keewan-Koy,19.9,20,1,No,No
+Mt Elgon,Chepyuk,Kaboriot,20.2,19,0,No,No
+Mt Elgon,Chepyuk,Sosap-Lel,19.6,21,2,Yes,No
+Mt Elgon,Chepyuk,Kibumet,18.0,18,0,No,No
+Mt Elgon,Chepyuk,Chepkowo,21.6,22,0,No,No
+Mt Elgon,Chepyuk,Kapchebuk,20.4,20,0,Yes,Yes
+Mt Elgon,Chepyuk,Kaptum,21.5,21,2,No,No
+Mt Elgon,Chepyuk,Kapkisei,15.3,19,0,No,No
+Mt Elgon,Chepyuk,Kapsogom,17.8,22,2,No,No
+Mt Elgon,Chepyuk,Kapkerwa,18.4,18,2,Yes,No
+Mt Elgon,Chepyuk,Chebokos,22.2,20,0,No,No
+Mt Elgon,Chepyuk,Kimurio,21.2,19,1,No,No
+Mt Elgon,Chepyuk,Tuyobei,16.4,21,2,No,No
+Mt Elgon,Chepyuk,Bondeni,16.3,18,2,Yes,Yes
+Mt Elgon,Kapkateny,Chelebei,20.3,16,0,Yes,Yes
+Mt Elgon,Kapkateny,Chongeywo,14.8,15,0,No,No
+Mt Elgon,Kapkateny,Kapkurongo,22.8,17,1,No,No
+Mt Elgon,Kapkateny,Masaek,24.3,16,2,Yes,No
+Mt Elgon,Kapkateny,Toywondet,18.1,16,0,No,No
+Mt Elgon,Kapkateny,Chebich,15.4,17,1,No,No
+Mt Elgon,Kapkateny,Terem,17.7,15,0,Yes,Yes
+Mt Elgon,Kapkateny,Kapsambu,25.2,18,0,No,No
+Mt Elgon,Kapkateny,Kapkateny,22.1,16,0,Yes,Yes
+Mt Elgon,Kapkateny,Cheptonon,20.1,15,2,No,No
+Mt Elgon,Kapkateny,Kamuneru,25.0,17,2,No,No
+Mt Elgon,Kapkateny,Sacho,12.8,16,1,Yes,No
+Mt Elgon,Kapkateny,Kipsabula,24.9,16,2,No,No
+Mt Elgon,Kapkateny,Kipteka,15.5,17,2,No,No
+Mt Elgon,Kapkateny,Kiptungurwo,24.7,15,1,Yes,Yes
+Mt Elgon,Kapkateny,Chepchabai,13.0,18,0,No,No
+Mt Elgon,Kapkateny,Kipsoen,23.3,16,1,No,No
+Mt Elgon,Kapkateny,Sango,13.4,15,2,Yes,Yes
+Mt Elgon,Kapkateny,Murwani,13.6,17,0,No,No
+Mt Elgon,Kapkateny,Chebin,23.9,16,1,No,No
+Mt Elgon,Kapkateny,Rwanda,24.9,16,2,No,No
+Mt Elgon,Kapkateny,Sesik,25.9,17,1,Yes,No
+Mt Elgon,Kapkateny,Kapkeke,24.3,15,0,No,No
+Mt Elgon,Kapkateny,Kimorong,21.5,18,0,No,No
+Mt Elgon,Kapkateny,Kapchoywo,24.4,16,2,Yes,Yes
+Mt Elgon,Kapkateny,Rworus,15.6,15,0,No,No
+Mt Elgon,Kapkateny,Chemosited,16.6,17,1,No,No
+Mt Elgon,Kaptama,Kongit,18.8,15,0,Yes,Yes
+Mt Elgon,Kaptama,Chepsoigei,22.2,16,0,No,No
+Mt Elgon,Kaptama,Kibei,25.2,16,2,No,No
+Mt Elgon,Kaptama,Kaptalelio,22.1,17,0,Yes,No
+Mt Elgon,Kaptama,Chepkoya,20.3,15,2,No,No
+Mt Elgon,Kaptama,Chemoge,13.8,16,0,No,No
+Mt Elgon,Kaptama,Kaboywo,15.0,15,0,Yes,Yes
+Mt Elgon,Kaptama,Kaptegandet Pefa,15.3,17,0,No,No
+Mt Elgon,Kaptama,Chelilde,20.0,16,2,No,No
+Mt Elgon,Kaptama,Chesito,20.7,18,2,No,No
+Mt Elgon,Kaptama,Kapchebon,19.9,15,2,Yes,No
+Mt Elgon,Kaptama,Chepkerer,18.0,16,1,No,No
+Mt Elgon,Kaptama,Kaborom,25.1,15,1,No,No
+Mt Elgon,Kaptama,Chesinende,24.0,16,0,Yes,Yes
+Mt Elgon,Kaptama,Kamenjo,15.6,16,0,No,No
+Mt Elgon,Kaptama,Kiptiroko,23.1,17,2,No,No
+Mt Elgon,Kaptama,Labot,23.3,15,1,Yes,No
+Mt Elgon,Kaptama,Kewaap-ang,20.4,18,1,No,No
+Mt Elgon,Kaptama,Kostoi,17.8,15,0,No,No
+Mt Elgon,Kaptama,Tulwo,17.4,16,1,Yes,Yes
+Mt Elgon,Kaptama,Toboo,17.8,16,0,No,No
+Mt Elgon,Kaptama,Aburi,23.9,17,1,No,No
+Mt Elgon,Kaptama,Tomoi,16.2,15,2,Yes,No
+Mt Elgon,Kaptama,Iyaa,19.4,18,1,No,No
+Mt Elgon,Kaptama,Keewoy,25.7,15,0,No,No
+Mt Elgon,Elgon,Sendera Sa,22.9,15,0,Yes,Yes
+Mt Elgon,Elgon,Sambocho,20.6,16,0,No,No
+Mt Elgon,Elgon,Koshok,18.9,16,2,No,No
+Mt Elgon,Elgon,Kaptola,17.8,17,0,Yes,No
+Mt Elgon,Elgon,Nomorio,14.4,15,2,No,No
+Mt Elgon,Elgon,Cheromis,22.7,16,1,No,No
+Mt Elgon,Elgon,Kapsokwony,17.3,15,2,Yes,Yes
+Mt Elgon,Elgon,MtElgon Council,21.7,17,2,Yes,Yes
+Mt Elgon,Elgon,Kibuk,20.4,16,1,No,No
+Mt Elgon,Elgon,Kaberwa,19.8,18,0,No,No
+Mt Elgon,Elgon,Tendet,13.7,15,0,Yes,No
+Mt Elgon,Elgon,Kimobo,25.7,16,1,No,No
+Mt Elgon,Elgon,Chemweisus,19.6,15,0,No,No
+Mt Elgon,Elgon,Chemoremwo,24.3,16,1,Yes,Yes
+Mt Elgon,Elgon,Kipchiria,24.2,16,1,No,No
+Mt Elgon,Elgon,Chesmses,16.4,17,2,No,No
+Mt Elgon,Elgon,Bugaa,24.3,15,2,Yes,No
+Mt Elgon,Elgon,Kimkung,20.0,18,2,No,No
+Mt Elgon,Elgon,Makunga,21.6,15,2,No,No
+Mt Elgon,Elgon,Kibyeto,19.3,16,1,Yes,Yes
+Mt Elgon,Elgon,Kipkama,14.5,16,1,No,No
+Mt Elgon,Elgon,Chepkui,23.7,17,0,No,No
+Mt Elgon,Elgon,Milimani,15.1,15,2,Yes,Yes
+Sirisia,Namwela,Kolani,15.6,12,1,Yes,Yes
+Sirisia,Namwela,Toloso,13.9,11,1,No,Yes
+Sirisia,Namwela,Sengeteti,20.6,13,1,Yes,No
+Sirisia,Namwela,Sibumba,20.4,12,2,No,No
+Sirisia,Namwela,Matibo,18.8,14,2,Yes,Yes
+Sirisia,Namwela,Chwele,24.9,13,0,Yes,Yes
+Sirisia,Namwela,Muyang'Anyi,15.1,12,2,No,No
+Sirisia,Namwela,Nabeki,12.6,11,0,Yes,No
+Sirisia,Namwela,Kikai,23.5,13,0,No,Yes
+Sirisia,Namwela,Binyenya,19.9,12,2,Yes,No
+Sirisia,Namwela,Kaptanai,14.6,14,0,No,No
+Sirisia,Namwela,Masaba,20.1,13,1,Yes,Yes
+Sirisia,Namwela,Menu,16.8,12,1,No,No
+Sirisia,Namwela,Namutokholo,23.2,11,1,Yes,Yes
+Sirisia,Namwela,Mutonyi,22.5,13,1,No,No
+Sirisia,Namwela,Wapukha,18.2,12,0,Yes,No
+Sirisia,Namwela,Wanjoya,25.5,13,2,No,Yes
+Sirisia,Namwela,Butunde,21.5,12,0,Yes,No
+Sirisia,Namwela,Kuafu,25.9,14,1,No,No
+Sirisia,Namwela,Malinda,17.9,11,2,Yes,Yes
+Sirisia,Namwela,Kapkanai,19.1,13,2,No,No
+Sirisia,Malakisi/South Kulisiru,Malinda Sa,14.3,12,1,Yes,Yes
+Sirisia,Malakisi/South Kulisiru,Namawanga,20.7,13,0,No,No
+Sirisia,Malakisi/South Kulisiru,Chenjeni,17.8,14,0,Yes,Yes
+Sirisia,Malakisi/South Kulisiru,Nabuloli,19.6,12,0,No,No
+Sirisia,Malakisi/South Kulisiru,Bisunu,21.1,13,2,No,No
+Sirisia,Malakisi/South Kulisiru,Lutaso,17.6,12,2,Yes,Yes
+Sirisia,Malakisi/South Kulisiru,Chongoyi,12.6,14,2,No,No
+Sirisia,Malakisi/South Kulisiru,Lukaala,12.9,11,1,No,No
+Sirisia,Malakisi/South Kulisiru,Yabeko,20.4,13,2,Yes,Yes
+Sirisia,Malakisi/South Kulisiru,Sirisia Township,13.7,12,1,Yes,Yes
+Sirisia,Malakisi/South Kulisiru,Sirisia(Mal),13.8,13,1,Yes,No
+Sirisia,Malakisi/South Kulisiru,Kulisiru,23.9,14,2,No,No
+Sirisia,Malakisi/South Kulisiru,Butonge,24.6,12,1,No,No
+Sirisia,Malakisi/South Kulisiru,Kibeu,18.0,13,0,Yes,Yes
+Sirisia,Malakisi/South Kulisiru,Bukokholo,20.6,12,0,No,No
+Sirisia,Malakisi/South Kulisiru,Kasiamo,23.3,14,1,No,No
+Sirisia,Malakisi/South Kulisiru,Namang'Ofulo,15.9,11,1,Yes,Yes
+Sirisia,Malakisi/South Kulisiru,Muanda Sa,23.9,13,1,No,No
+Sirisia,Malakisi/South Kulisiru,Ndakaru,13.8,12,1,No,No
+Sirisia,Malakisi/South Kulisiru,Chebukutumi,20.0,13,2,Yes,Yes
+Sirisia,Malakisi/South Kulisiru,Musieba,19.5,14,2,No,No
+Sirisia,Malakisi/South Kulisiru,Namunyu,25.0,12,1,No,No
+Sirisia,Malakisi/South Kulisiru,Tembwa,14.3,13,2,Yes,Yes
+Sirisia,Malakisi/South Kulisiru,Sibanga,22.8,12,2,No,No
+Sirisia,Malakisi/South Kulisiru,Malakisi Jua Kali,16.7,14,1,Yes,Yes
+Sirisia,Malakisi/South Kulisiru,Tembelela,17.4,11,0,No,No
+Sirisia,Malakisi/South Kulisiru,Malakisi,15.6,13,2,Yes,Yes
+Sirisia,Malakisi/South Kulisiru,Wakape,13.3,14,2,No,No
+Sirisia,Malakisi/South Kulisiru,Ngalasia,18.1,12,2,Yes,Yes
+Sirisia,Malakisi/South Kulisiru,Sirisia,22.0,13,2,No,No
+Sirisia,Lwandanyi,Nasala,16.8,12,0,No,No
+Sirisia,Lwandanyi,Tulienge,25.8,13,1,Yes,Yes
+Sirisia,Lwandanyi,Mufungu,23.6,14,0,No,No
+Sirisia,Lwandanyi,Londo,23.2,12,0,No,No
+Sirisia,Lwandanyi,Sitabicha,24.3,13,1,Yes,Yes
+Sirisia,Lwandanyi,Namwesi,16.1,12,2,No,No
+Sirisia,Lwandanyi,Malakisi Muslim,15.1,14,1,Yes,Yes
+Sirisia,Lwandanyi,Malakisi Cpk,25.7,11,2,No,No
+Sirisia,Lwandanyi,Tamlega,14.8,13,1,No,No
+Sirisia,Lwandanyi,Nambuya,15.7,12,1,Yes,Yes
+Sirisia,Lwandanyi,Machakha,18.7,13,0,No,No
+Sirisia,Lwandanyi,Kibindoi,14.4,14,2,No,No
+Sirisia,Lwandanyi,Namubila Sa,15.2,12,0,Yes,Yes
+Sirisia,Lwandanyi,Tororo,18.1,13,1,No,No
+Sirisia,Lwandanyi,Kaburweti,12.9,12,0,No,No
+Sirisia,Lwandanyi,Chebukuyi,25.1,14,2,Yes,Yes
+Sirisia,Lwandanyi,Lwakhakha,24.9,11,2,Yes,Yes
+Sirisia,Lwandanyi,Kaot,19.6,13,2,No,No
+Sirisia,Lwandanyi,Korosiandet,16.5,12,2,No,No
+Sirisia,Lwandanyi,Wamono,13.4,13,0,Yes,Yes
+Sirisia,Lwandanyi,Kabkara,13.9,14,2,No,No
+Sirisia,Lwandanyi,Mayekwe,23.3,12,1,No,No
+Sirisia,Lwandanyi,Katomei,22.9,13,2,Yes,Yes
+Sirisia,Lwandanyi,Lurare,23.8,12,0,No,No
+Sirisia,Lwandanyi,Mukhuyu,18.5,14,1,No,No
+Sirisia,Lwandanyi,Kabendo,14.0,11,1,Yes,Yes
+Sirisia,Lwandanyi,Kamunyong'Ole,15.8,13,0,No,No
+Sirisia,Lwandanyi,Namundi,24.6,12,1,No,No
+Sirisia,Lwandanyi,Namawanga KAG,22.6,13,0,Yes,Yes
+Sirisia,Lwandanyi,Khabukoya,21.6,14,2,No,No
+Sirisia,Lwandanyi,Komiriai,16.7,12,2,No,No
+Sirisia,Lwandanyi,Bukiambi,14.3,13,0,Yes,Yes
+Sirisia,Lwandanyi,Kapstet,23.9,12,1,No,No
+Sirisia,Lwandanyi,Matumbayi,18.0,14,1,No,No
+Kabuchai,Kabuchai/Chwele,Busakala,14.7,10,0,Yes,Yes
+Kabuchai,Kabuchai/Chwele,Chwele,16.1,11,2,Yes,Yes
+Kabuchai,Kabuchai/Chwele,Sanandiki,16.0,12,0,No,No
+Kabuchai,Kabuchai/Chwele,Kibichori,20.8,10,1,No,No
+Kabuchai,Kabuchai/Chwele,Nakitumba,25.7,11,1,Yes,Yes
+Kabuchai,Kabuchai/Chwele,Sikusi,25.5,10,2,No,No
+Kabuchai,Kabuchai/Chwele,Chebunyinyi,20.5,12,1,No,No
+Kabuchai,Kabuchai/Chwele,Wabukhonyi,13.6,11,2,Yes,Yes
+Kabuchai,Kabuchai/Chwele,Namilama,17.8,10,2,No,No
+Kabuchai,Kabuchai/Chwele,Mukhweya,25.8,12,1,No,No
+Kabuchai,Kabuchai/Chwele,Nairumbi Sa,23.1,10,0,Yes,Yes
+Kabuchai,Kabuchai/Chwele,Namakhele,15.5,11,1,No,No
+Kabuchai,Kabuchai/Chwele,Matibo,16.2,10,1,No,No
+Kabuchai,Kabuchai/Chwele,Makhonge,16.2,12,1,Yes,Yes
+Kabuchai,Kabuchai/Chwele,Walukaya,25.2,11,2,No,No
+Kabuchai,Kabuchai/Chwele,Nalondo,20.4,10,0,Yes,Yes
+Kabuchai,Kabuchai/Chwele,Khalaba,24.2,12,1,No,No
+Kabuchai,Kabuchai/Chwele,Musese,22.4,10,1,No,No
+Kabuchai,Kabuchai/Chwele,Kati,20.6,11,1,Yes,Yes
+Kabuchai,Kabuchai/Chwele,Lufutu,19.1,10,0,No,No
+Kabuchai,West Nalondo,Muyayi,16.1,10,1,Yes,Yes
+Kabuchai,West Nalondo,Kabuchai Sa,18.3,11,0,No,No
+Kabuchai,West Nalondo,Kisiwa,18.0,12,1,Yes,Yes
+Kabuchai,West Nalondo,Namosi,18.0,10,0,No,No
+Kabuchai,West Nalondo,Musokho,17.9,11,2,No,No
+Kabuchai,West Nalondo,Khalaba,23.1,12,2,Yes,Yes
+Kabuchai,West Nalondo,Chemwa,17.5,10,2,No,No
+Kabuchai,West Nalondo,Sikata,20.3,11,0,No,No
+Kabuchai,West Nalondo,Nangwe,13.2,12,1,Yes,Yes
+Kabuchai,West Nalondo,Sawali,15.6,10,1,No,No
+Kabuchai,West Nalondo,Kasosi,24.9,11,2,No,No
+Kabuchai,West Nalondo,Sirare,14.7,12,0,Yes,Yes
+Kabuchai,West Nalondo,Pongola,16.8,10,0,No,No
+Kabuchai,West Nalondo,Chebukwa,13.4,11,2,No,No
+Kabuchai,West Nalondo,Nalondo,21.4,12,2,Yes,Yes
+Kabuchai,West Nalondo,Sitila,19.1,10,2,No,No
+Kabuchai,West Nalondo,Ngalasia,12.9,11,1,No,No
+Kabuchai,West Nalondo,Chemwa,21.9,12,2,Yes,Yes
+Kabuchai,West Nalondo,Luucho,14.4,10,2,No,No
+Kabuchai,West Nalondo,Temoi,14.3,11,1,No,No
+Kabuchai,West Nalondo,Muyayi,18.8,12,2,No,No
+Kabuchai,Bwake/Luuya,Misiri,23.2,13,2,No,No
+Kabuchai,Bwake/Luuya,Mabanga,19.7,14,1,Yes,Yes
+Kabuchai,Bwake/Luuya,Marobo,16.3,11,2,No,No
+Kabuchai,Bwake/Luuya,Khatiri,16.5,12,2,No,No
+Kabuchai,Bwake/Luuya,Lurende,14.5,13,2,Yes,Yes
+Kabuchai,Bwake/Luuya,Khachonge,24.0,10,0,No,No
+Kabuchai,Bwake/Luuya,Mikayu,22.3,11,2,No,No
+Kabuchai,Bwake/Luuya,Kiboochi,22.9,12,0,Yes,Yes
+Kabuchai,Bwake/Luuya,Nasaka,20.6,10,1,No,No
+Kabuchai,Bwake/Luuya,Luuya,15.3,11,1,No,No
+Kabuchai,Bwake/Luuya,Chekulo,16.1,12,2,Yes,Yes
+Kabuchai,Bwake/Luuya,Chekulo,25.8,10,1,No,No
+Kabuchai,Bwake/Luuya,Nangili,19.0,11,1,No,No
+Kabuchai,Bwake/Luuya,Bwake,15.1,12,0,Yes,Yes
+Kabuchai,Bwake/Luuya,Sichei,13.4,10,0,No,No
+Kabuchai,Bwake/Luuya,Lwanda,26.0,11,2,No,No
+Kabuchai,Bwake/Luuya,Mabwi,19.5,12,2,No,No
+Kabuchai,Bwake/Luuya,Nalondo,25.3,13,2,Yes,Yes
+Kabuchai,Bwake/Luuya,Kasosi,14.6,10,2,No,No
+Kabuchai,Mukuyuni,Namaondo,18.7,13,2,No,No
+Kabuchai,Mukuyuni,Chebukaka,15.5,14,1,Yes,Yes
+Kabuchai,Mukuyuni,Makhonge,25.0,11,0,No,No
+Kabuchai,Mukuyuni,Teremi,13.9,12,2,No,No
+Kabuchai,Mukuyuni,Baraki,22.4,13,2,Yes,Yes
+Kabuchai,Mukuyuni,Sikulu,12.7,10,0,No,No
+Kabuchai,Mukuyuni,Milembe,19.9,11,2,No,No
+Kabuchai,Mukuyuni,Lukhome,21.2,12,1,Yes,Yes
+Kabuchai,Mukuyuni,Chepsitati,12.8,10,0,No,No
+Kabuchai,Mukuyuni,Kimalewa,22.0,11,0,No,No
+Kabuchai,Mukuyuni,Madisi,13.6,12,2,Yes,Yes
+Kabuchai,Mukuyuni,Samita,21.1,10,2,No,No
+Kabuchai,Mukuyuni,Chenjeni,14.6,11,0,No,No
+Kabuchai,Mukuyuni,Sango,15.9,12,0,Yes,Yes
+Kabuchai,Mukuyuni,Sichei,21.4,10,1,No,No
+Kabuchai,Mukuyuni,Lukhuna,21.7,11,1,No,No
+Kabuchai,Mukuyuni,StWalumoli,20.5,12,1,Yes,Yes
+Kabuchai,Mukuyuni,Nelima,14.2,10,1,No,No
+Kabuchai,Mukuyuni,Mukuyuni Cattle Dip,17.4,11,2,No,No
+Kabuchai,Mukuyuni,Kuywa,20.7,12,0,Yes,Yes
+Kabuchai,Mukuyuni,Kibisi,23.4,10,2,No,No
+Kabuchai,Mukuyuni,Nakayonjo,24.3,11,2,No,No
+Kabuchai,Mukuyuni,Mpakani,18.9,12,1,No,No
+Bumula,South Bukusu,Tulumba,13.7,14,2,Yes,Yes
+Bumula,South Bukusu,Burangasi,24.6,13,0,No,No
+Bumula,South Bukusu,Kibachenje,13.0,15,0,No,No
+Bumula,South Bukusu,Mateka,14.5,12,0,Yes,Yes
+Bumula,South Bukusu,Kimatuni,19.6,14,2,No,No
+Bumula,South Bukusu,Muanda,13.1,15,1,No,No
+Bumula,South Bukusu,Biliso,17.0,13,0,Yes,Yes
+Bumula,South Bukusu,Tabuti,21.6,12,0,No,No
+Bumula,South Bukusu,Lumboka,13.4,16,2,No,No
+Bumula,South Bukusu,Nandigwa,20.8,14,0,Yes,Yes
+Bumula,South Bukusu,Buloosi,20.7,15,0,No,No
+Bumula,South Bukusu,Mulukoba,21.9,12,0,No,No
+Bumula,South Bukusu,Lukhuma,13.6,15,2,Yes,Yes
+Bumula,Bumula,Namaika,19.7,12,1,Yes,Yes
+Bumula,Bumula,Khayo,22.2,13,2,No,No
+Bumula,Bumula,Masunno,14.0,14,1,No,No
+Bumula,Bumula,Kimatuni S A,19.0,15,1,Yes,Yes
+Bumula,Bumula,Lunao,16.8,12,0,No,No
+Bumula,Bumula,Sikinga,16.0,13,0,No,No
+Bumula,Bumula,Wesimikha,17.8,14,0,Yes,Yes
+Bumula,Bumula,Bumula,20.3,15,2,Yes,Yes
+Bumula,Bumula,Khelela,16.5,13,2,No,No
+Bumula,Bumula,Chiliba,13.4,12,2,No,No
+Bumula,Bumula,Bunambobi,24.7,16,1,Yes,Yes
+Bumula,Bumula,Syekumulo,17.6,14,1,No,No
+Bumula,Bumula,Mikokwe,20.7,15,0,No,No
+Bumula,Bumula,Mukuyuni,13.5,12,2,Yes,Yes
+Bumula,Bumula,Mutua,15.9,13,2,No,No
+Bumula,Bumula,Lurare,25.0,14,1,No,No
+Bumula,Bumula,Musiya,17.7,15,1,Yes,Yes
+Bumula,Khasoko,Lubunda,25.7,13,2,No,No
+Bumula,Khasoko,Nasianda Bahai,13.0,12,2,Yes,Yes
+Bumula,Khasoko,Namusasi,12.6,16,0,No,No
+Bumula,Khasoko,Maraba,18.0,14,2,No,No
+Bumula,Khasoko,Namanze,18.6,15,1,Yes,Yes
+Bumula,Khasoko,Khasoko,20.9,12,2,Yes,Yes
+Bumula,Khasoko,Mungore,18.0,13,1,No,No
+Bumula,Khasoko,Namatotoa,20.5,14,0,No,No
+Bumula,Khasoko,Mundaa,24.9,15,2,Yes,Yes
+Bumula,Khasoko,Bwaliro,22.5,13,0,No,No
+Bumula,Kabula,Kabula,21.0,12,1,Yes,Yes
+Bumula,Kabula,Naburereya,20.5,16,1,No,No
+Bumula,Kabula,Malinda,19.6,14,0,No,No
+Bumula,Kabula,Talitia,14.7,15,0,Yes,Yes
+Bumula,Kabula,Syoya,15.7,12,1,No,No
+Bumula,Kabula,Remwa,17.2,13,2,No,No
+Bumula,Kabula,Mukhuma,21.0,14,1,Yes,Yes
+Bumula,Kabula,Wamumali,25.9,15,0,No,No
+Bumula,Kabula,Wamunyiri,18.2,13,0,No,No
+Bumula,Kabula,Mwiruti,18.8,12,1,Yes,Yes
+Bumula,Kabula,Lukusi,21.2,16,1,No,No
+Bumula,Kabula,Bukumuma,15.4,14,0,No,No
+Bumula,Kimaeti,Kamurumba,24.6,15,1,Yes,Yes
+Bumula,Kimaeti,Mwiyenga,20.0,12,2,No,No
+Bumula,Kimaeti,Tabala,17.9,13,1,No,No
+Bumula,Kimaeti,Kimwanga,25.5,14,2,Yes,Yes
+Bumula,Kimaeti,Nakhwana,17.8,15,1,No,No
+Bumula,Kimaeti,Tulukui,24.9,13,1,No,No
+Bumula,Kimaeti,Myanga,15.9,12,2,Yes,Yes
+Bumula,Kimaeti,Nakalila,25.3,16,0,No,No
+Bumula,Kimaeti,Sihilila,25.3,14,1,No,No
+Bumula,Kimaeti,Kitabisi,20.5,15,1,Yes,Yes
+Bumula,Kimaeti,Masielo,24.5,12,0,No,No
+Bumula,Kimaeti,Khasolo,15.5,13,1,No,No
+Bumula,Kimaeti,Napara,16.5,14,1,Yes,Yes
+Bumula,Kimaeti,Siloba,17.8,15,1,No,No
+Bumula,Kimaeti,Bitobo,16.9,13,0,No,No
+Bumula,Kimaeti,Kitingia,15.3,12,1,Yes,Yes
+Bumula,Kimaeti,Kimaeti,14.7,16,0,Yes,Yes
+Bumula,Kimaeti,Syombe,25.8,14,2,No,No
+Bumula,Kimaeti,Bukirimo,25.4,15,2,No,No
+Bumula,Kimaeti,Mukhekhe,16.6,13,1,No,No
+Bumula,Kimaeti,Kisache,24.1,14,1,No,No
+Bumula,West Bukusu,Kisioyi,15.9,15,2,Yes,Yes
+Bumula,West Bukusu,Machwele,19.6,13,0,No,No
+Bumula,West Bukusu,Ng'Oli,14.0,12,0,No,No
+Bumula,West Bukusu,Lwanja,13.5,16,0,Yes,Yes
+Bumula,West Bukusu,Mwomo,20.3,14,0,No,No
+Bumula,West Bukusu,Nabuyeywe,16.5,15,1,No,No
+Bumula,West Bukusu,Tunya,24.5,12,1,Yes,Yes
+Bumula,West Bukusu,Mayanja,12.7,13,0,No,No
+Bumula,West Bukusu,Kibuke,25.5,14,0,No,No
+Bumula,West Bukusu,Namuningie,25.7,15,2,Yes,Yes
+Bumula,West Bukusu,Wacholi,12.8,13,0,No,No
+Bumula,West Bukusu,Nang'Eni,15.2,12,1,No,No
+Bumula,Siboti,Manani,14.0,16,0,Yes,Yes
+Bumula,Siboti,Kabubero,24.8,14,0,No,No
+Bumula,Siboti,Miluki,19.9,15,0,No,No
+Bumula,Siboti,Namanje,24.6,12,2,Yes,Yes
+Bumula,Siboti,Mukwa,21.8,13,0,No,No
+Bumula,Siboti,Bosio,22.6,14,2,No,No
+Bumula,Siboti,Kikwechi,14.2,15,1,Yes,Yes
+Bumula,Siboti,Kisawayi,22.5,13,2,No,No
+Bumula,Siboti,Netima,17.4,12,1,No,No
+Bumula,Siboti,Napara,13.9,16,0,Yes,Yes
+Bumula,Siboti,Nasimbo Sa,24.1,14,1,No,No
+Bumula,Siboti,Musakasa,21.4,15,1,No,No
+Bumula,Siboti,Bisuche,22.1,12,2,Yes,Yes
+Bumula,Siboti,Nangata,12.5,13,2,No,No
+Bumula,Siboti,Sango,24.8,14,2,No,No
+Bumula,Siboti,Sirende,16.7,15,0,Yes,Yes
+Bumula,Siboti,Nandika Sa,22.5,13,1,No,No
+Bumula,Siboti,Siboti,23.3,12,2,Yes,Yes
+Bumula,Siboti,Khabusi,15.0,16,0,No,No
+Bumula,Siboti,Lurare,15.2,14,1,No,No
+Bumula,Siboti,Masielo,25.4,15,0,Yes,Yes
+Bumula,Siboti,Murumba,25.9,12,0,No,No
+Bumula,Siboti,Matisi,20.1,13,1,No,No
+Bumula,Siboti,Kisawayi,18.5,14,1,No,No
+Kanduyi,Bukembe West,Muyayi,16.6,10,1,Yes,Yes
+Kanduyi,Bukembe West,Kitale,14.9,11,1,No,Yes
+Kanduyi,Bukembe West,Nalutiri,14.0,10,1,Yes,Yes
+Kanduyi,Bukembe West,Khaoya,14.9,12,0,No,No
+Kanduyi,Bukembe West,Cheng'Wali,25.1,11,2,No,No
+Kanduyi,Bukembe West,Ndengelwa,16.6,12,2,Yes,Yes
+Kanduyi,Bukembe West,Chemuche,23.0,10,0,No,No
+Kanduyi,Bukembe West,Kisuluni,17.5,10,1,No,No
+Kanduyi,Bukembe West,Matumbufu,22.5,10,2,Yes,Yes
+Kanduyi,Bukembe West,Namirembe,25.0,10,1,No,No
+Kanduyi,Bukembe West,Nalutiri,22.3,11,2,No,No
+Kanduyi,Bukembe West,Chengwali,14.0,12,2,Yes,Yes
+Kanduyi,Bukembe West,Muyayi,17.2,11,1,No,Yes
+Kanduyi,Bukembe East,Bukembe,20.4,11,2,Yes,Yes
+Kanduyi,Bukembe East,Kombo,22.8,12,2,No,No
+Kanduyi,Bukembe East,Kongoli,23.6,10,1,No,No
+Kanduyi,Bukembe East,Bukembe,23.9,10,1,Yes,Yes
+Kanduyi,Bukembe East,Sirende,24.8,10,1,No,No
+Kanduyi,Bukembe East,Industrial,17.0,10,1,No,No
+Kanduyi,Bukembe East,Misanga,17.1,11,2,Yes,Yes
+Kanduyi,Bukembe East,Hututu,25.4,12,2,No,No
+Kanduyi,Bukembe East,Tembelela,22.7,11,1,No,No
+Kanduyi,Township,Sinoko,17.2,10,0,Yes,Yes
+Kanduyi,Township,Moi,21.3,11,2,Yes,Yes
+Kanduyi,Township,Bungoma,19.4,10,2,Yes,Yes
+Kanduyi,Township,Mupeli,16.3,11,2,No,No
+Kanduyi,Township,Namachanja,16.4,12,1,No,No
+Kanduyi,Township,Baptist,24.4,10,0,Yes,Yes
+Kanduyi,Township,Central Baptist,14.6,10,0,No,No
+Kanduyi,Khalaba,Mukhaweli,14.1,11,0,No,No
+Kanduyi,Khalaba,Kanduyi,19.1,11,0,Yes,Yes
+Kanduyi,Khalaba,Kanduyi Childrens Home,12.9,12,0,No,Yes
+Kanduyi,Khalaba,Bondeni Mteremko,19.3,10,1,No,No
+Kanduyi,Khalaba,Wamalwa Kijana,17.4,10,0,Yes,Yes
+Kanduyi,Musikoma,Sio,15.9,10,1,No,No
+Kanduyi,Musikoma,Siritanyi,16.6,11,0,No,No
+Kanduyi,Musikoma,Samoya,22.2,12,0,Yes,Yes
+Kanduyi,Musikoma,Wekelekha,19.8,10,1,No,No
+Kanduyi,Musikoma,Namasanda,14.9,11,0,No,No
+Kanduyi,Musikoma,Musikoma,24.6,12,2,Yes,Yes
+Kanduyi,Musikoma,Namamuka,19.8,11,2,No,No
+Kanduyi,Musikoma,Walala,20.8,11,2,Yes,Yes
+Kanduyi,Musikoma,Siloba,15.9,12,0,No,No
+Kanduyi,Musikoma,Muslim,17.8,10,1,No,No
+Kanduyi,Musikoma,Okanya,23.0,10,0,Yes,Yes
+Kanduyi,Musikoma,Namisi,20.2,10,2,No,No
+Kanduyi,Musikoma,Sibembe e,13.6,10,1,No,No
+Kanduyi,Musikoma,Wabukhe,21.9,11,2,Yes,Yes
+Kanduyi,Musikoma,Tulienge,20.2,12,0,No,No
+Kanduyi,Musikoma,Sacred Institute,14.3,11,0,No,Yes
+Kanduyi,East Sang'Alo,Mabuusi,14.1,12,2,No,No
+Kanduyi,East Sang'Alo,Dorofu Township,23.9,10,2,Yes,Yes
+Kanduyi,East Sang'Alo,Nabutola,17.4,10,1,No,No
+Kanduyi,East Sang'Alo,Mechimeru Sa,21.7,10,2,No,No
+Kanduyi,East Sang'Alo,Mwibale,12.9,10,2,Yes,Yes
+Kanduyi,East Sang'Alo,Nabichakha,22.6,11,2,No,No
+Kanduyi,East Sang'Alo,Khaweli,16.3,12,2,No,No
+Kanduyi,East Sang'Alo,Kimugui,18.3,11,0,Yes,Yes
+Kanduyi,East Sang'Alo,Khakula,12.9,11,2,No,No
+Kanduyi,East Sang'Alo,Wacheka,22.2,12,0,Yes,Yes
+Kanduyi,East Sang'Alo,Watwang A,14.1,10,2,No,No
+Kanduyi,East Sang'Alo,Mufule,23.6,10,1,No,No
+Kanduyi,East Sang'Alo,Sango,20.6,10,1,Yes,Yes
+Kanduyi,East Sang'Alo,Tungelele,14.6,10,2,No,No
+Kanduyi,East Sang'Alo,Lutungu,21.7,11,2,No,No
+Kanduyi,East Sang'Alo,Fuchani,21.2,12,1,Yes,Yes
+Kanduyi,East Sang'Alo,Mwikhupo,22.1,11,0,No,No
+Kanduyi,East Sang'Alo,Musakasa,23.4,12,2,No,No
+Kanduyi,East Sang'Alo,Mechimeru,14.2,12,0,No,No
+Kanduyi,Marakaru/Tuuti,Kibabii,12.8,10,1,Yes,Yes
+Kanduyi,Marakaru/Tuuti,Buema,19.4,10,0,No,No
+Kanduyi,Marakaru/Tuuti,Bukusu,21.7,10,2,No,No
+Kanduyi,Marakaru/Tuuti,Makutano,23.9,10,0,Yes,Yes
+Kanduyi,Marakaru/Tuuti,Kimukungi,23.5,11,2,No,No
+Kanduyi,Marakaru/Tuuti,Mungeti,22.0,12,1,No,No
+Kanduyi,Marakaru/Tuuti,Kakichuma,18.2,11,1,Yes,Yes
+Kanduyi,Marakaru/Tuuti,Marakaru,21.7,12,1,No,No
+Kanduyi,Marakaru/Tuuti,Nabukhisa,23.6,11,1,No,No
+Kanduyi,Marakaru/Tuuti,Bukananachi,16.4,12,1,Yes,Yes
+Kanduyi,Marakaru/Tuuti,Matongi,13.4,10,1,No,No
+Kanduyi,Marakaru/Tuuti,Kikwechi,15.1,10,1,No,No
+Kanduyi,Marakaru/Tuuti,Namikelo,24.6,10,1,Yes,Yes
+Kanduyi,Marakaru/Tuuti,Tuuti,24.1,10,2,No,No
+Kanduyi,Marakaru/Tuuti,Maocho,13.7,11,2,No,No
+Kanduyi,Marakaru/Tuuti,Butieli,12.8,12,2,Yes,Yes
+Kanduyi,Marakaru/Tuuti,Maliki,16.0,11,2,No,No
+Kanduyi,Marakaru/Tuuti,Sitoma,22.7,12,2,No,No
+Kanduyi,Marakaru/Tuuti,Nakayonjo,25.7,11,0,Yes,Yes
+Kanduyi,West Sang'Alo,Namisi,16.6,12,2,No,No
+Kanduyi,West Sang'Alo,Luanda,18.8,10,1,No,No
+Kanduyi,West Sang'Alo,Lwanda,17.0,10,1,Yes,Yes
+Kanduyi,West Sang'Alo,Namwacha,23.5,10,1,No,No
+Kanduyi,West Sang'Alo,Sang'Alo,24.3,11,0,Yes,Yes
+Kanduyi,West Sang'Alo,Bulondo,13.6,12,0,No,No
+Kanduyi,West Sang'Alo,Ranje,24.5,11,2,No,No
+Kanduyi,West Sang'Alo,Kamba,20.4,12,0,Yes,Yes
+Kanduyi,West Sang'Alo,Siaka,22.8,11,0,No,No
+Kanduyi,West Sang'Alo,Kitinda,14.6,12,1,No,No
+Kanduyi,West Sang'Alo,Siangwe,13.0,10,2,Yes,Yes
+Kanduyi,West Sang'Alo,Kisochele,21.6,10,2,No,No
+Kanduyi,West Sang'Alo,Namaanga,24.5,10,1,No,No
+Kanduyi,West Sang'Alo,Nasindu,21.2,10,1,Yes,Yes
+Kanduyi,West Sang'Alo,Luyekhe,16.4,11,0,No,No
+Kanduyi,West Sang'Alo,Chemululuchi,21.3,11,0,No,No
+Kanduyi,West Sang'Alo,Mukholi,20.2,12,0,Yes,Yes
+Kanduyi,West Sang'Alo,Buumba,17.8,11,0,No,No
+Kanduyi,West Sang'Alo,Ndakaru,21.2,12,1,No,No
+Kanduyi,West Sang'Alo,Malaha,18.9,10,0,Yes,Yes
+Webuye East,Mihuu,Nabuyole,14.1,11,0,No,No
+Webuye East,Mihuu,Murumba,25.0,12,2,No,No
+Webuye East,Mihuu,Mwikhupo,22.6,13,0,Yes,Yes
+Webuye East,Mihuu,Lugulu,17.2,10,2,No,No
+Webuye East,Mihuu,Savana,24.3,11,0,No,No
+Webuye East,Mihuu,Sipala,20.6,12,0,Yes,Yes
+Webuye East,Mihuu,Mihuu,17.0,13,1,No,No
+Webuye East,Mihuu,Siyilila,22.5,10,1,No,No
+Webuye East,Mihuu,Mahanga,18.3,11,1,Yes,Yes
+Webuye East,Mihuu,Mikuva,15.7,12,2,No,No
+Webuye East,Mihuu,Mulachi Sa,17.4,10,1,No,No
+Webuye East,Mihuu,Mitukuyu,20.2,11,2,Yes,Yes
+Webuye East,Mihuu,Magemo,23.2,12,1,No,No
+Webuye East,Mihuu,Misimo,19.5,13,2,No,No
+Webuye East,Mihuu,Bakisa,20.7,10,1,Yes,Yes
+Webuye East,Mihuu,Bakisa,14.0,11,2,No,No
+Webuye East,Mihuu,Masindu,20.6,12,0,No,No
+Webuye East,Mihuu,Lugusi,13.1,10,1,Yes,Yes
+Webuye East,Mihuu,Lumuli,25.5,11,0,No,No
+Webuye East,Mihuu,Nabuyole,23.4,12,0,No,No
+Webuye East,Mihuu,Satellite,14.0,13,1,Yes,Yes
+Webuye East,Mihuu,Froi,21.9,10,0,No,No
+Webuye East,Ndivisi,Misikhu,16.8,11,2,Yes,Yes
+Webuye East,Ndivisi,Wabukhonyi,16.8,12,2,No,No
+Webuye East,Ndivisi,Misemwa,13.8,10,1,No,No
+Webuye East,Ndivisi,Kwena,15.0,11,0,Yes,Yes
+Webuye East,Ndivisi,Namarambi,21.7,12,0,No,No
+Webuye East,Ndivisi,Makemo,16.9,13,0,No,No
+Webuye East,Ndivisi,Makuselwa,15.4,10,2,Yes,Yes
+Webuye East,Ndivisi,Silungai,22.9,11,1,No,No
+Webuye East,Ndivisi,Ndivisi,16.7,12,0,No,No
+Webuye East,Ndivisi,Namwatikho,25.7,10,1,Yes,Yes
+Webuye East,Ndivisi,Sinoko,17.4,11,2,No,No
+Webuye East,Ndivisi,Malomonye,22.5,13,0,Yes,Yes
+Webuye East,Ndivisi,Wandabwa,21.6,10,0,No,No
+Webuye East,Ndivisi,Lutacho,21.9,11,2,No,No
+Webuye East,Ndivisi,Bakisa,22.2,12,0,Yes,Yes
+Webuye East,Ndivisi,Magemo,22.3,10,2,No,No
+Webuye East,Ndivisi,Manafwa,13.7,11,2,No,No
+Webuye East,Ndivisi,Sinoko,15.8,12,2,Yes,Yes
+Webuye East,Ndivisi,Katumi,23.3,13,2,No,No
+Webuye East,Ndivisi,Musa,25.7,10,2,No,No
+Webuye East,Ndivisi,Masibayi,15.6,11,1,Yes,Yes
+Webuye East,Ndivisi,Weramondi,20.1,12,0,No,No
+Webuye East,Ndivisi,Ondoti,13.3,10,1,No,No
+Webuye East,Ndivisi,Njata,17.3,11,1,Yes,Yes
+Webuye East,Ndivisi,Advent,21.7,12,1,No,No
+Webuye East,Maraka,Webuye,24.1,13,0,Yes,Yes
+Webuye East,Maraka,Khamoto,24.7,10,1,No,No
+Webuye East,Maraka,Makuma,20.5,10,2,No,No
+Webuye East,Maraka,Nzoia,20.1,11,0,No,No
+Webuye East,Maraka,Mukhuyu,13.4,12,0,Yes,Yes
+Webuye East,Maraka,Muji,20.9,13,2,No,No
+Webuye East,Maraka,Maraka,16.5,10,0,No,No
+Webuye East,Maraka,Webuye,14.7,11,2,Yes,Yes
+Webuye East,Maraka,Nabuyole,15.8,12,0,No,No
+Webuye East,Maraka,Lufwindiri,12.5,10,1,No,No
+Webuye East,Maraka,Nzoia,24.6,11,2,Yes,Yes
+Webuye East,Maraka,Sambu Central,20.2,12,0,No,No
+Webuye West,Misikhu,Sirisia,21.7,10,1,Yes,Yes
+Webuye West,Misikhu,Kituni,23.1,11,2,No,No
+Webuye West,Misikhu,Bunjosi,23.5,12,1,No,No
+Webuye West,Misikhu,Bunang'Eni,13.2,13,2,Yes,Yes
+Webuye West,Misikhu,Nambami,21.6,11,1,No,No
+Webuye West,Misikhu,Misikhu,24.5,12,1,Yes,Yes
+Webuye West,Misikhu,Manani,24.7,13,0,No,No
+Webuye West,Misikhu,Sirende,15.0,10,2,No,No
+Webuye West,Misikhu,Mungakha,22.6,11,0,Yes,Yes
+Webuye West,Misikhu,Wenyila,24.5,10,0,No,No
+Webuye West,Misikhu,Bahati,24.5,11,1,Yes,Yes
+Webuye West,Misikhu,Witi Cheng'Oli,19.6,12,2,No,No
+Webuye West,Misikhu,Makhonge,23.8,13,1,No,No
+Webuye West,Misikhu,Lukhuna,24.2,10,0,Yes,Yes
+Webuye West,Misikhu,Sibembe e,15.9,11,2,No,No
+Webuye West,Sitikho,Mukite,21.2,12,1,Yes,Yes
+Webuye West,Sitikho,Khalala,19.6,10,1,No,No
+Webuye West,Sitikho,Sitikho,12.6,11,0,No,No
+Webuye West,Sitikho,Bukunjangabo,14.1,12,0,No,No
+Webuye West,Sitikho,Kakimanyi,25.3,13,1,No,No
+Webuye West,Sitikho,Mwembula,21.7,10,2,Yes,Yes
+Webuye West,Sitikho,Ngachi Sa,13.8,11,0,No,No
+Webuye West,Matulo,Matulo,20.7,10,0,Yes,Yes
+Webuye West,Matulo,Webuye,18.9,11,0,Yes,Yes
+Webuye West,Matulo,Wenyila,17.4,13,2,No,No
+Webuye West,Matulo,Malaha,19.4,10,2,Yes,Yes
+Webuye West,Matulo,Wamang'Oli,22.7,11,1,No,No
+Webuye West,Matulo,Maramu,25.6,12,1,No,No
+Webuye West,Bokoli,Chebosi,16.6,10,2,No,No
+Webuye West,Bokoli,Matisi,24.6,11,2,Yes,Yes
+Webuye West,Bokoli,Lutaso,15.4,12,0,No,No
+Webuye West,Bokoli,Moyokwe,19.0,10,0,No,No
+Webuye West,Bokoli,Miendo,19.7,11,0,Yes,Yes
+Webuye West,Bokoli,Namawanga,25.5,12,0,No,No
+Webuye West,Bokoli,Bokoli,22.9,10,2,Yes,Yes
+Webuye West,Bokoli,Namilimo Ketc,16.8,11,1,No,No
+Webuye West,Bokoli,Mahanga,23.9,10,1,Yes,Yes
+Webuye West,Bokoli,Maloho,23.7,11,2,No,No
+Webuye West,Bokoli,Milani,13.2,12,1,No,No
+Webuye West,Bokoli,Sikimbilo,19.9,13,2,Yes,Yes
+Webuye West,Bokoli,Chebini Pefa,16.9,10,2,No,No
+Webuye West,Bokoli,Namatondoi,23.3,11,2,No,No
+Webuye West,Bokoli,Ndurusi,20.7,12,1,Yes,Yes
+Webuye West,Bokoli,Sambu,20.4,10,2,No,No
+Webuye West,Bokoli,Bokoli,13.6,11,2,No,No
+Kimilili,Kibingei,Namawanga,17.1,12,2,Yes,Yes
+Kimilili,Kibingei,Kimilili,23.2,13,0,Yes,Yes
+Kimilili,Kibingei,Chebukwabi,24.0,14,2,No,No
+Kimilili,Kibingei,Kamusinga,21.9,12,0,Yes,Yes
+Kimilili,Kibingei,Khwiroro,17.1,13,2,No,No
+Kimilili,Kibingei,Nasianda,12.6,14,1,No,No
+Kimilili,Kibingei,Kibingei,17.3,15,1,Yes,Yes
+Kimilili,Kibingei,Kibunde,22.8,12,0,No,No
+Kimilili,Kibingei,Kitayi,13.2,13,1,No,No
+Kimilili,Kibingei,Siuna,15.3,14,2,Yes,Yes
+Kimilili,Kibingei,Lutonyi,14.2,12,1,No,No
+Kimilili,Kibingei,Chebukwabi,25.7,13,2,No,Yes
+Kimilili,Kibingei,Kaputola,16.5,14,1,Yes,No
+Kimilili,Kibingei,Namakhele,19.3,15,1,No,No
+Kimilili,Kibingei,Ngoli,15.3,12,2,No,No
+Kimilili,Kibingei,Mungu,18.0,14,2,No,No
+Kimilili,Kibingei,Kolongolo,19.4,15,1,No,No
+Kimilili,Kimilili,Bituyu,15.4,12,0,No,No
+Kimilili,Kimilili,Luanda,22.8,13,1,No,No
+Kimilili,Kimilili,Sitabicha,21.6,14,1,Yes,Yes
+Kimilili,Kimilili,Khamulati,23.0,12,0,No,No
+Kimilili,Kimilili,Chelekei,13.1,13,0,No,No
+Kimilili,Kimilili,Matili,14.3,14,1,Yes,Yes
+Kimilili,Kimilili,Kimilili,18.8,11,0,Yes,Yes
+Kimilili,Kimilili,Kambini,19.2,12,0,No,No
+Kimilili,Kimilili,Sango,25.2,13,0,Yes,Yes
+Kimilili,Kimilili,Misikhu Main,22.3,14,0,No,No
+Kimilili,Maeni,Buko,16.7,12,1,Yes,Yes
+Kimilili,Maeni,Nasioya,14.7,13,1,No,No
+Kimilili,Maeni,Namboani,16.5,14,0,No,No
+Kimilili,Maeni,Sikhendu,16.9,15,0,Yes,Yes
+Kimilili,Maeni,Kamusinde,18.2,12,1,No,No
+Kimilili,Maeni,Kamasielo,25.6,13,2,No,No
+Kimilili,Maeni,Kimingichi AC,23.3,14,1,Yes,Yes
+Kimilili,Maeni,Maeni,14.3,12,0,Yes,Yes
+Kimilili,Maeni,Kikwechi,20.2,13,2,No,No
+Kimilili,Kamukuywa,Mwangale,23.1,12,1,Yes,Yes
+Kimilili,Kamukuywa,Kamukuywa,16.3,13,0,Yes,Yes
+Kimilili,Kamukuywa,Sibakala,21.9,14,1,No,No
+Kimilili,Kamukuywa,Sosio,19.6,15,2,No,Yes
+Kimilili,Kamukuywa,Lukhome,12.6,12,1,Yes,Yes
+Kimilili,Kamukuywa,Makhonge,13.7,13,1,No,No
+Kimilili,Kamukuywa,Sosio,13.3,14,0,No,No
+Kimilili,Kamukuywa,Nakalira,22.0,12,0,Yes,Yes
+Kimilili,Kamukuywa,Chesamisi,23.7,13,1,No,No
+Kimilili,Kamukuywa,Lubokha,24.1,14,1,No,No
+Kimilili,Kamukuywa,Kamukuywa Jua Kali,16.2,11,0,Yes,Yes
+Kimilili,Kamukuywa,Namasanda,16.4,12,2,No,No
+Kimilili,Kamukuywa,Musembe,19.0,13,2,No,No
+Kimilili,Kamukuywa,Matisi,18.1,12,0,No,No
+Tongaren,Mbakalo,Mbakalo,25.5,12,1,Yes,Yes
+Tongaren,Mbakalo,Nabiswa,14.7,13,0,No,No
+Tongaren,Mbakalo,Lunyu,18.4,10,1,No,No
+Tongaren,Mbakalo,Mitoto,18.5,11,1,Yes,Yes
+Tongaren,Mbakalo,Musembe,22.7,12,2,No,No
+Tongaren,Mbakalo,Lunyu,15.3,10,2,No,No
+Tongaren,Mbakalo,Karima,16.5,11,2,Yes,Yes
+Tongaren,Mbakalo,Makunga,12.5,12,2,No,No
+Tongaren,Mbakalo,Kibisi,16.8,13,2,No,No
+Tongaren,Mbakalo,Namawanga,21.8,10,2,Yes,Yes
+Tongaren,Mbakalo,Nzoia,15.5,11,2,No,Yes
+Tongaren,Mbakalo,Marinda,17.0,10,1,Yes,Yes
+Tongaren,Mbakalo,Miyuke,21.1,11,0,No,No
+Tongaren,Mbakalo,Kibisi,23.7,12,1,No,No
+Tongaren,Mbakalo,Mukomari,21.8,13,0,Yes,Yes
+Tongaren,Mbakalo,Ushindi,18.8,10,2,No,No
+Tongaren,Mbakalo,Lumukile,15.9,11,1,No,No
+Tongaren,Mbakalo,Lusokho,25.1,12,0,Yes,Yes
+Tongaren,Mbakalo,Makutano,23.0,10,0,No,No
+Tongaren,Mbakalo,Nandorobo,24.4,11,2,No,No
+Tongaren,Mbakalo,Naitiri,17.6,12,1,Yes,Yes
+Tongaren,Naitiri/Kabuyefwe,Sango,18.1,13,0,Yes,Yes
+Tongaren,Naitiri/Kabuyefwe,Ndengelwa,24.1,10,2,No,No
+Tongaren,Naitiri/Kabuyefwe,Pwani,13.7,11,2,No,No
+Tongaren,Naitiri/Kabuyefwe,Siumbwa,14.4,12,0,Yes,Yes
+Tongaren,Naitiri/Kabuyefwe,Mitua,18.0,10,2,No,Yes
+Tongaren,Naitiri/Kabuyefwe,Nakoba,16.4,11,2,No,No
+Tongaren,Naitiri/Kabuyefwe,Naitiri,19.6,12,0,Yes,Yes
+Tongaren,Naitiri/Kabuyefwe,Lungai,14.7,13,2,No,No
+Tongaren,Naitiri/Kabuyefwe,Kewa,25.4,10,1,No,No
+Tongaren,Naitiri/Kabuyefwe,Nyange,18.6,11,0,Yes,Yes
+Tongaren,Naitiri/Kabuyefwe,Makhanga,15.2,12,1,No,No
+Tongaren,Naitiri/Kabuyefwe,Sirende,23.6,10,0,No,No
+Tongaren,Naitiri/Kabuyefwe,Sirakaru,15.2,11,2,Yes,Yes
+Tongaren,Naitiri/Kabuyefwe,Wabukala,25.1,12,2,No,No
+Tongaren,Naitiri/Kabuyefwe,Naitiri juu',17.9,13,0,Yes,Yes
+Tongaren,Naitiri/Kabuyefwe,Makhanga,23.8,10,0,No,No
+Tongaren,Naitiri/Kabuyefwe,Andiva Duka Moja,22.3,11,1,No,No
+Tongaren,Naitiri/Kabuyefwe,Kiminini,16.7,12,2,Yes,Yes
+Tongaren,Naitiri/Kabuyefwe,Walumoli,25.6,10,2,No,No
+Tongaren,Naitiri/Kabuyefwe,Makumu,12.7,11,2,No,No
+Tongaren,Naitiri/Kabuyefwe,Pwani,16.6,12,2,Yes,Yes
+Tongaren,Naitiri/Kabuyefwe,Makhonge,19.8,13,0,No,No
+Tongaren,Naitiri/Kabuyefwe,Wabukhonyi,23.2,10,1,No,Yes
+Tongaren,Milima,Milima,15.4,11,0,Yes,Yes
+Tongaren,Milima,Mukuyuni,24.0,13,2,No,No
+Tongaren,Milima,Maliki,22.2,10,2,Yes,Yes
+Tongaren,Milima,Bilibili,12.7,11,0,No,No
+Tongaren,Milima,Lukhokhwe,13.5,12,2,No,No
+Tongaren,Milima,Nabing'Eng'E,24.1,10,1,Yes,Yes
+Tongaren,Milima,Namboko,25.6,11,0,No,No
+Tongaren,Milima,Luuya,20.3,12,0,No,No
+Tongaren,Milima,Makunga,16.3,13,2,Yes,Yes
+Tongaren,Milima,Mfupi,18.9,12,0,Yes,Yes
+Tongaren,Milima,Luuya,18.3,11,1,No,No
+Tongaren,Milima,Riverside,22.9,12,2,Yes,Yes
+Tongaren,Ndalu/Tabani,Kiminini,19.1,13,1,Yes,Yes
+Tongaren,Ndalu/Tabani,Muliro,24.1,10,2,No,No
+Tongaren,Ndalu/Tabani,Ndalu,17.2,11,2,Yes,Yes
+Tongaren,Ndalu/Tabani,Tabani,14.1,12,2,No,No
+Tongaren,Ndalu/Tabani,Mapera,21.7,10,2,No,No
+Tongaren,Ndalu/Tabani,Sawa,15.5,11,1,Yes,Yes
+Tongaren,Ndalu/Tabani,Musangura,17.2,12,1,No,No
+Tongaren,Ndalu/Tabani,Sinoko,14.7,13,0,No,No
+Tongaren,Ndalu/Tabani,Shikuku,21.0,10,0,Yes,Yes
+Tongaren,Ndalu/Tabani,Nzoia,17.6,11,1,No,No
+Tongaren,Ndalu/Tabani,Lavisa,19.7,12,1,No,No
+Tongaren,Ndalu/Tabani,Minyali,23.5,10,2,Yes,Yes
+Tongaren,Tongaren,Matisi,13.3,11,2,Yes,Yes
+Tongaren,Tongaren,Bunambo,14.6,12,2,No,No
+Tongaren,Tongaren,Bituyu,23.5,13,0,No,No
+Tongaren,Tongaren,Milele,12.5,10,2,Yes,Yes
+Tongaren,Tongaren,Mabusi,14.2,11,2,No,No
+Tongaren,Tongaren,Maina,13.4,12,1,No,No
+Tongaren,Tongaren,Lukhuna,13.6,10,2,No,No
+Tongaren,Tongaren,Manyasa,13.2,11,2,Yes,Yes
+Tongaren,Tongaren,Kakamwe,12.8,12,2,No,No
+Tongaren,Tongaren,Birunda,21.9,13,0,No,No
+Tongaren,Tongaren,Tongaren,24.4,10,2,Yes,Yes
+Tongaren,Tongaren,Mlimani,20.0,11,1,No,No
+Tongaren,Tongaren,Binyenya,19.0,12,1,No,No
+Tongaren,Tongaren,Machakha,15.2,10,2,Yes,Yes
+Tongaren,Tongaren,Makololwe,16.2,11,0,No,No
+Tongaren,Tongaren,Mufunje,15.6,10,1,No,No
+Tongaren,Tongaren,Buluma,13.9,11,1,No,No
+Tongaren,Soysambu/Mitua,Namatore,24.2,12,1,Yes,Yes
+Tongaren,Soysambu/Mitua,Mwambu,21.2,10,2,No,No
+Tongaren,Soysambu/Mitua,Soysambu,20.4,11,0,Yes,Yes
+Tongaren,Soysambu/Mitua,Siangalamwe,17.9,12,2,No,No
+Tongaren,Soysambu/Mitua,Kapchonge,21.4,13,1,No,No
+Tongaren,Soysambu/Mitua,Lunao,24.2,10,1,Yes,Yes
+Tongaren,Soysambu/Mitua,Chuma,18.5,11,0,No,No
+Tongaren,Soysambu/Mitua,Kananachi,17.7,12,1,No,No
+Tongaren,Soysambu/Mitua,Mitua,18.1,10,1,Yes,Yes
+Tongaren,Soysambu/Mitua,Narati,13.0,11,0,No,No
+Tongaren,Soysambu/Mitua,Maresi,13.0,12,2,No,No
+Tongaren,Soysambu/Mitua,Mwikhupo,18.9,13,0,Yes,Yes
+Tongaren,Soysambu/Mitua,Namunyiri,17.2,10,1,No,No
+Tongaren,Soysambu/Mitua,Narati,24.2,11,1,Yes,Yes
+Tongaren,Soysambu/Mitua,Maresi Maket,17.1,12,0,No,No
+Tongaren,Soysambu/Mitua,James Mwei,13.9,10,0,No,No
+Tongaren,Soysambu/Mitua,Matisi,24.0,11,1,Yes,Yes
+Tongaren,Soysambu/Mitua,Brigadia Makutano,16.7,12,1,No,No
